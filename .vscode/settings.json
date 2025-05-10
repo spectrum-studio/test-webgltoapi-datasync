@@ -56,5 +56,9 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "test-webgltoapi-datasync.sln"
+    "dotnet.defaultSolution": "test-webgltoapi-datasync.sln",
+    "omnisharp.useModernNet": false,
+    "omnisharp.projectLoadTimeout": 60,
+    "omnisharp.autoStart": true,
+    "editor.formatOnSave": true
 }
