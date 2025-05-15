@@ -1,0 +1,82 @@
+[
+    {
+        "title": "現代プログラミング入門",
+        "coverImageUrl": "https://example.com/images/book1.jpg",
+        "description": "プログラミングの基礎から最新トレンドまでをカバーする入門書。Pythonを中心に解説。",
+        "author": "山田 太郎",
+        "publishedYear": 2021,
+        "isbn": "978-4-123456-01-0"
+    },
+    {
+        "title": "AIと未来社会",
+        "coverImageUrl": "https://example.com/images/book2.jpg",
+        "description": "人工知能が社会に与える影響と、倫理的・経済的な観点からの考察をまとめた一冊。",
+        "author": "佐藤 花子",
+        "publishedYear": 2020,
+        "isbn": "978-4-123456-02-7"
+    },
+    {
+        "title": "クラウドアーキテクチャ設計",
+        "coverImageUrl": "https://example.com/images/book3.jpg",
+        "description": "AWSやGCPを利用したスケーラブルなシステム設計について詳述。実例も豊富。",
+        "author": "鈴木 一郎",
+        "publishedYear": 2022,
+        "isbn": "978-4-123456-03-4"
+    },
+    {
+        "title": "機械学習アルゴリズム図鑑",
+        "coverImageUrl": "https://example.com/images/book4.jpg",
+        "description": "機械学習における代表的なアルゴリズムを図解と共に丁寧に解説する技術書。",
+        "author": "高橋 美咲",
+        "publishedYear": 2019,
+        "isbn": "978-4-123456-04-1"
+    },
+    {
+        "title": "ゼロから学ぶデータベース",
+        "coverImageUrl": "https://example.com/images/book5.jpg",
+        "description": "リレーショナルデータベースの基礎からSQLの応用までを解説する初心者向け教材。",
+        "author": "田中 宏",
+        "publishedYear": 2018,
+        "isbn": "978-4-123456-05-8"
+    },
+    {
+        "title": "サイバーセキュリティ概論",
+        "coverImageUrl": "https://example.com/images/book6.jpg",
+        "description": "サイバー攻撃の仕組みとその対策方法を網羅的に学べる入門書。",
+        "author": "井上 真",
+        "publishedYear": 2021,
+        "isbn": "978-4-123456-06-5"
+    },
+    {
+        "title": "UXデザインの教科書",
+        "coverImageUrl": "https://example.com/images/book7.jpg",
+        "description": "ユーザー中心設計の理論と実践をわかりやすく解説した一冊。",
+        "author": "中村 あかね",
+        "publishedYear": 2020,
+        "isbn": "978-4-123456-07-2"
+    },
+    {
+        "title": "アルゴリズム思考術",
+        "coverImageUrl": "https://example.com/images/book8.jpg",
+        "description": "アルゴリズムの基本的な考え方とその実生活への応用をユニークに紹介。",
+        "author": "小林 優",
+        "publishedYear": 2019,
+        "isbn": "978-4-123456-08-9"
+    },
+    {
+        "title": "技術者のための英語読解力養成講座",
+        "coverImageUrl": "https://example.com/images/book9.jpg",
+        "description": "技術ドキュメントを読み解くための英語力を鍛える実践的トレーニング教材。",
+        "author": "本田 修",
+        "publishedYear": 2017,
+        "isbn": "978-4-123456-09-6"
+    },
+    {
+        "title": "Webアプリ開発実践ガイド",
+        "coverImageUrl": "https://example.com/images/book10.jpg",
+        "description": "フロントエンドからバックエンドまでのWeb開発全体像を体系的に学べる実用書。",
+        "author": "森川 真由美",
+        "publishedYear": 2023,
+        "isbn": "978-4-123456-10-2"
+    }
+]
